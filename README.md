@@ -15,6 +15,7 @@ Awesome list of free and freeware virtual instrument plugins for Linux
 
 [Regency](https://nakst.itch.io/regency) - A phase distortion synthesizer.
   
+## [Surge Synthesizer Team](https://github.com/surge-synthesizer)
 
 [Surge XT](https://surge-synthesizer.github.io) - featuring many synthesis techniques, a great selection of filters, a flexible modulation engine, a smorgasbord of effects, and modern features like MPE, microtuning (with MTS-ESP support!), and comprehensive Open Sound Control (OSC) support.
 
