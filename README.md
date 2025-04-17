@@ -57,7 +57,7 @@ Awesome list of free and freeware virtual instrument plugins for Linux
 
 [TyrellN6](https://u-he.com/products/tyrelln6/) - Virtual analogue with classic architecture plus extras.
 
-[Triple Cheese](https://u-he.com/products/triplecheese/)
+[Triple Cheese](https://u-he.com/products/triplecheese/) - winner of the 2006 KVR Developer Challenge
 
 ## *
 
