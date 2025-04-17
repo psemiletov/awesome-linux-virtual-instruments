@@ -5,6 +5,8 @@ Awesome list of free and freeware virtual instrument plugins for Linux
 
 [Amsynth](https://amsynth.github.io) - synth with a classic subtractive synthesizer topology.
 
+[Charlatan](https://www.blaukraut.info) - virtual analog (VA) synthesizer.
+
 [Dexed](https://asb2m10.github.io/dexed/) - Dexed is a multi platform, multi format plugin synth that is closely modeled on the Yamaha DX7.
 
 [Drumlabooh](https://psemiletov.github.io/drumlabooh) - drum machine with support of SFZ, Hydrogen and own format drum kits
