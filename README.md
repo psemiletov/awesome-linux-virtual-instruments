@@ -34,7 +34,7 @@ Awesome list of free and freeware virtual instrument plugins for Linux
  
 ## *
 
-[OB-Xd}(https://www.discodsp.com/obxd/) -  designed to recreate the Oberheim OB-X, it features enhancements like micro random detuning and unison for a fuller sound. 
+[OB-Xd](https://www.discodsp.com/obxd/) -  designed to recreate the Oberheim OB-X, it features enhancements like micro random detuning and unison for a fuller sound. 
 
 ## *
 
