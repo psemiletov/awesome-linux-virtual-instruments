@@ -1,8 +1,10 @@
 # awesome-linux-virtual-instruments
-Awesome list of free and freeware virtual instrument plugins for Linux
+
+Awesome list of free or freeware (and working!) virtual instrument plugins for Linux
+
+Список свободных или бесплатных (и рабочих!) виртуальных инструментов-плагинов для Linux
 
 ## *
-
 
 [ADLplug](https://github.com/jpcima/ADLplug) - Synthesizer OPL3 and OPN2 sound chip emulations.
 
