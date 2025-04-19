@@ -60,6 +60,7 @@ Awesome list of free or freeware (and working!) virtual instrument plugins for L
 
 ## *
 
+[Sampler/Multisampler](https://lsp-plug.in/?page=plugins) - powerful samplers from Linux Studio Plugins set.
 
 [setBFree](https://setbfree.org) - DSP tonewheel organ.
 
