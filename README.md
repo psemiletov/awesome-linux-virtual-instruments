@@ -22,7 +22,7 @@ Awesome list of free or freeware (and working!) virtual instrument plugins for L
 
 [Geonkick](https://geonkick.org) - a percussive synthesizer.
 
-[Help](https://tytel.org/helm/) - the predecessor of Vital.
+[Helm](https://tytel.org/helm/) - the predecessor of Vital.
 
 [JC303](https://github.com/midilab/jc303) -  Cmake JUCE port of Robin Schmidt`s Open303 with added features, a Roland TB-303 clone plugin.
 
