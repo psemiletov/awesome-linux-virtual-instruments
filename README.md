@@ -50,6 +50,8 @@ Awesome list of free or freeware (and working!) virtual instrument plugins for L
 
 [OPNplug](https://github.com/jpcima/ADLplug) -  Synthesizer OPL3 and OPN2 sound chip emulations.
 
+[Oxe FM Synth](https://oxesoft.wordpress.com) - fine FM synth.
+
 [ripplerx](https://github.com/tiagolr/ripplerx) -  a physically modeled synth, capable of sounds similar to AAS Chromaphone and Ableton Collision.
 
 ## [rncbc aka Rui Nuno Capela](https://www.rncbc.org/)'s instruments:
@@ -67,6 +69,8 @@ Awesome list of free or freeware (and working!) virtual instrument plugins for L
 [setBFree](https://setbfree.org) - DSP tonewheel organ.
 
 [Sfizz](https://github.com/sfztools/sfizz) - SFZ samper.
+
+[Six Sines](https://github.com/baconpaul/six-sines) -  "FM synth, but it's really a bit more PM/AM".
 
 ## [Surge Synthesizer Team](https://github.com/surge-synthesizer)
 
