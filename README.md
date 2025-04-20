@@ -92,6 +92,8 @@ Awesome list of free or freeware (and working!) virtual instrument plugins for L
 
 [Triple Cheese](https://u-he.com/products/triplecheese/) - winner of the 2006 KVR Developer Challenge.
 
+[TX16Wx Software Sampler](https://www.tx16wx.com) - sampler that supports WAV, AIFF, Ogg, FLAC and Yamaha waves; loads Sound fonts, SFZ, Akai and EXS formats.
+
 ## *
 
 [Vital](https://vital.audio) - Spectral warping wavetable synth.
