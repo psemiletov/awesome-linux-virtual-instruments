@@ -22,7 +22,7 @@ Awesome list of free or freeware (and working!) virtual instrument plugins for L
 
 [Geonkick](https://geonkick.org) - a percussive synthesizer.
 
-[Helm](https://tytel.org/helm/) - the predecessor of Vital.
+[Help](https://tytel.org/helm/) - the predecessor of Vital.
 
 [JC303](https://github.com/midilab/jc303) -  Cmake JUCE port of Robin Schmidt`s Open303 with added features, a Roland TB-303 clone plugin.
 
@@ -49,6 +49,8 @@ Awesome list of free or freeware (and working!) virtual instrument plugins for L
 [Odin2](https://thewavewarden.com/pages/odin-2) - 24-voice polyphonic synth.
 
 [OPNplug](https://github.com/jpcima/ADLplug) -  Synthesizer OPL3 and OPN2 sound chip emulations.
+
+[ripplerx](https://github.com/tiagolr/ripplerx) -  a physically modeled synth, capable of sounds similar to AAS Chromaphone and Ableton Collision.
 
 ## [rncbc aka Rui Nuno Capela](https://www.rncbc.org/)'s instruments:
 
@@ -88,6 +90,6 @@ Awesome list of free or freeware (and working!) virtual instrument plugins for L
 
 [Vital](https://vital.audio) - Spectral warping wavetable synth.
 
-[Youshimi](https://yoshimi.github.io) - fully polyphonic, multi-timbral, multi-channel software synthesiser (originally fork of ZynAddSubFX).
+[Yoshimi](https://yoshimi.github.io) - fully polyphonic, multi-timbral, multi-channel software synthesiser (originally fork of ZynAddSubFX).
 
 [ZynAddSubFX](https://zynaddsubfx.sourceforge.io) - additive/subtractive, pad synthesis and more.
