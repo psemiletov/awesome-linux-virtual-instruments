@@ -18,6 +18,9 @@ Awesome list of free or freeware (and working!) virtual instrument plugins for L
 
 [Drumlabooh](https://psemiletov.github.io/drumlabooh) - drum machine with support of SFZ, Hydrogen and own format drum kits.
 
+[Cardinal](https://cardinal.kx.studio) - self-contained modular synthesizer plugin
+based on the popular VCV Rack.
+
 [Firefly Synth](https://firefly-synth.com) -  semi-modular VST3 and CLAP synthesizer and FX plugin.
 
 [Geonkick](https://geonkick.org) - a percussive synthesizer.
