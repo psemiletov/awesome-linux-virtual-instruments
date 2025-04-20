@@ -86,13 +86,16 @@ Awesome list of free or freeware (and working!) virtual instrument plugins for L
 
 [Podolski](https://u-he.com/products/podolski/) -  Podolski is a free, straightforward, CPU-efficient virtual analogue synthesizer. 
 
+[Terrain](https://github.com/aaronaanderson/Terrain) - Wave Terrain Synthesis instrument.
+
 [TyrellN6](https://u-he.com/products/tyrelln6/) - Virtual analogue with classic architecture plus extras.
 
-[Triple Cheese](https://u-he.com/products/triplecheese/) - winner of the 2006 KVR Developer Challenge
+[Triple Cheese](https://u-he.com/products/triplecheese/) - winner of the 2006 KVR Developer Challenge.
 
 ## *
 
 [Vital](https://vital.audio) - Spectral warping wavetable synth.
+ 
 
 [Yoshimi](https://yoshimi.github.io) - fully polyphonic, multi-timbral, multi-channel software synthesiser (originally fork of ZynAddSubFX).
 
