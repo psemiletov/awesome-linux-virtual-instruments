@@ -31,9 +31,9 @@ based on the popular VCV Rack.
 
 [Geonkick](https://geonkick.org) - a percussive synthesizer.
 
-[Help](https://tytel.org/helm/) - the predecessor of Vital.
+[Helm](https://tytel.org/helm/) - the predecessor of Vital.
 
-[JC303](https://github.com/midilab/jc303) -  Cmake JUCE port of Robin Schmidt`s Open303 with added features, a Roland TB-303 clone plugin.
+[JC303](https://github.com/midilab/jc303) -  cmake JUCE port of Robin Schmidt`s Open303 with added features, a Roland TB-303 clone plugin.
 
 [JS80P](https://github.com/attilammagyar/js80p) -  polyphony/mono synthesizer VST plugin.
 
@@ -68,6 +68,8 @@ based on the popular VCV Rack.
 [drumkv1](https://drumkv1.sourceforge.io/) - an old-school drum-kit sampler
 
 [padthv1](https://padthv1.sourceforge.io/) - an old-school polyphonic additive synthesizer
+
+[samplv1](https://samplv1.sourceforge.io) - an old-school polyphonic sampler
 
 [synthv1](https://synthv1.sourceforge.io) - an old-school polyphonic additive synthesizer.
 
@@ -107,7 +109,6 @@ based on the popular VCV Rack.
 
 [Vital](https://vital.audio) - Spectral warping wavetable synth.
  
-
 [Yoshimi](https://yoshimi.github.io) - fully polyphonic, multi-timbral, multi-channel software synthesiser (originally fork of ZynAddSubFX).
 
 [ZynAddSubFX](https://zynaddsubfx.sourceforge.io) - additive/subtractive, pad synthesis and more.
