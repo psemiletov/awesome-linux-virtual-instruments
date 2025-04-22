@@ -85,6 +85,10 @@ based on the popular VCV Rack.
 
 [TAL-Vocoder](https://tal-software.com/products/tal-vocoder) - a vintage-style vocoder with 11 bands that produces the sound of vocoders from the early 80’s. 
 
+[Terrain](https://github.com/aaronaanderson/Terrain) - Wave Terrain Synthesis instrument.
+
+[TX16Wx Software Sampler](https://www.tx16wx.com) - sampler that supports WAV, AIFF, Ogg, FLAC and Yamaha waves; loads Sound fonts, SFZ, Akai and EXS formats.
+
 ## U-HE
 
 [Podolski](https://u-he.com/products/podolski/) -  Podolski is a free, straightforward, CPU-efficient virtual analogue synthesizer. 
@@ -92,12 +96,6 @@ based on the popular VCV Rack.
 [TyrellN6](https://u-he.com/products/tyrelln6/) - Virtual analogue with classic architecture plus extras.
 
 [Triple Cheese](https://u-he.com/products/triplecheese/) - winner of the 2006 KVR Developer Challenge.
-
-## *
-
-[Terrain](https://github.com/aaronaanderson/Terrain) - Wave Terrain Synthesis instrument.
-
-[TX16Wx Software Sampler](https://www.tx16wx.com) - sampler that supports WAV, AIFF, Ogg, FLAC and Yamaha waves; loads Sound fonts, SFZ, Akai and EXS formats.
 
 ## *
 
