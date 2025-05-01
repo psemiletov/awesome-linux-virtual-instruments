@@ -16,6 +16,8 @@ Awesome list of free or freeware (and working!) virtual instrument plugins for L
 
 [Amsynth](https://amsynth.github.io) - synth with a classic subtractive synthesizer topology.
 
+[Audible Planets](https://github.com/gregrecco67/AudiblePlanets) - an expressive, quasi-Ptolemaic semi-modular synthesizer.
+
 [Charlatan](https://www.blaukraut.info) - virtual analog (VA) synthesizer.
 
 [Dexed](https://asb2m10.github.io/dexed/) - Dexed is a multi platform, multi format plugin synth that is closely modeled on the Yamaha DX7.
