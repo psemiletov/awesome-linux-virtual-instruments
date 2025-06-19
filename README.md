@@ -55,7 +55,9 @@ based on the popular VCV Rack.
 
 [Nils' K1v](https://www.nilsschneider.de/wp/nils-k1v/) - a rompler that emulates a Kawai K1, a famous japanese classic from 1988.
 
-[OB-Xd](https://www.discodsp.com/obxd/) -  designed to recreate the Oberheim OB-X, it features enhancements like micro random detuning and unison for a fuller sound. 
+[OB-Xd](https://www.discodsp.com/obxd/) -  variant of OB-Xd (originally by 2Dat), maintained by DiscoDSP. 
+
+[OB-Xf](https://github.com/surge-synthesizer/OB-Xf) - variant of OB-Xd (originally by 2Dat), maintained by Surge Synth Team. 
 
 [Odin2](https://thewavewarden.com/pages/odin-2) - 24-voice polyphonic synth.
 
