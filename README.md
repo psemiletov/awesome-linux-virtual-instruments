@@ -8,8 +8,6 @@ Awesome list of free or freeware (and working!) virtual instrument plugins for L
 
 [Actuate](https://github.com/ardura/Actuate) - A Subtractive and Additive Synthesizer, Sampler, and Granulizer built in Rust + Nih-Plug Written by Ardura.
 
-[ADLplug](https://github.com/jpcima/ADLplug) - Synthesizer OPL3 and OPN2 sound chip emulations.
-
 [Aeolus](https://archie3d.github.io/aeolus_plugin/) -  a pipe organ synthesizer inspired by the original Aeolous project.
 
 [Ami-Sampler-VST](https://github.com/astriiddev/Ami-Sampler-VST) - VSTi 8-bit Sampler inspired by the sound of the famous Commodore Amiga.
@@ -17,6 +15,9 @@ Awesome list of free or freeware (and working!) virtual instrument plugins for L
 [Amsynth](https://amsynth.github.io) - synth with a classic subtractive synthesizer topology.
 
 [Audible Planets](https://github.com/gregrecco67/AudiblePlanets) - an expressive, quasi-Ptolemaic semi-modular synthesizer.
+
+[Cardinal](https://cardinal.kx.studio) - self-contained modular synthesizer plugin
+based on the popular VCV Rack.
 
 [Charlatan](https://www.blaukraut.info) - virtual analog (VA) synthesizer.
 
@@ -26,10 +27,9 @@ Awesome list of free or freeware (and working!) virtual instrument plugins for L
 
 [Drumlabooh](https://psemiletov.github.io/drumlabooh) - drum machine with support of SFZ, Hydrogen and own format drum kits.
 
-[Cardinal](https://cardinal.kx.studio) - self-contained modular synthesizer plugin
-based on the popular VCV Rack.
+[Firefly Synth](https://firefly-synth.com) - semi-modular VST3 and CLAP synthesizer and FX plugin.
 
-[Firefly Synth](https://firefly-synth.com) -  semi-modular VST3 and CLAP synthesizer and FX plugin.
+[FSVR](https://github.com/musicastudio/FSVR) - Formant Synthesizer Virtual Rack, is a software reconstruction of the Yamaha FS1R. Clear, cool sound.
 
 [Geonkick](https://geonkick.org) - a percussive synthesizer.
 
