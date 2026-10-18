@@ -10,14 +10,11 @@ Awesome list of free or freeware (and working!) virtual instrument plugins for L
 
 [Aeolus](https://archie3d.github.io/aeolus_plugin/) -  a pipe organ synthesizer inspired by the original Aeolous project.
 
-[Ami-Sampler-VST](https://github.com/astriiddev/Ami-Sampler-VST) - VSTi 8-bit Sampler inspired by the sound of the famous Commodore Amiga.
-
 [Amsynth](https://amsynth.github.io) - synth with a classic subtractive synthesizer topology.
 
 [Audible Planets](https://github.com/gregrecco67/AudiblePlanets) - an expressive, quasi-Ptolemaic semi-modular synthesizer.
 
-[Cardinal](https://cardinal.kx.studio) - self-contained modular synthesizer plugin
-based on the popular VCV Rack.
+[Cardinal](https://cardinal.kx.studio) - self-contained modular synthesizer plugin based on the popular VCV Rack.
 
 [Charlatan](https://www.blaukraut.info) - virtual analog (VA) synthesizer.
 
@@ -59,8 +56,6 @@ based on the popular VCV Rack.
 
 [Odin2](https://thewavewarden.com/pages/odin-2) - 24-voice polyphonic synth.
 
-[OPNplug](https://github.com/jpcima/ADLplug) -  Synthesizer OPL3 and OPN2 sound chip emulations.
-
 [Oxe FM Synth](https://oxesoft.wordpress.com) - fine FM synth.
 
 [ripplerx](https://github.com/tiagolr/ripplerx) -  a physically modeled synth, capable of sounds similar to AAS Chromaphone and Ableton Collision.
@@ -88,6 +83,8 @@ based on the popular VCV Rack.
 ## [Surge Synthesizer Team](https://github.com/surge-synthesizer)
 
 [Surge XT](https://surge-synthesizer.github.io) - featuring many synthesis techniques, a great selection of filters, a flexible modulation engine, a smorgasbord of effects, and modern features like MPE, microtuning (with MTS-ESP support!), and comprehensive Open Sound Control (OSC) support.
+
+[SQ8L](https://github.com/sq8l-revival/SQ8L) - Unofficial 64-bit port of SQ8L 0.91b, Siegfried Kullmann's Ensoniq SQ-80 emulation.
 
 ## *
 
